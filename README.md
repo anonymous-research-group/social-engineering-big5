@@ -1,2 +1,2 @@
-# vcd-big5
-Injecting VCD vulnerabilities into five powerful smart contracts
+# social-engineering-big5
+Injecting Social Engineering attacks into five powerful smart contracts
